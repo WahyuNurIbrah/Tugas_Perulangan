@@ -10,4 +10,4 @@
 | Dosen Pengampu | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/fariedrahmat) |
 
 # SCREENSHOT HASIL
-![Aplikasi Gue]()
+![SS](https://github.com/WahyuNurIbrah/Tugas_Perulangan/blob/main/Gambar%20P5js.png)
